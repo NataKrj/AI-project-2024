@@ -1,0 +1,166 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Страница — 1" id="Lzp19qQ4Za2k63_ZieD9">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aDo1W0WQXH34_hfKg9op-1" value="Generate_Risk_Report" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="5170" y="1210" width="552" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-2" value="Compile Results" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-1">
+          <mxGeometry x="43" y="54" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-3" value="Generate PDF/HTML Report using Jinja2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-1">
+          <mxGeometry x="266" y="46" width="259" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-4" value="Aggregate_and_Assign_Risk_Scores" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="876.5" width="870" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-5" value="Assign Weights to Factors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-4">
+          <mxGeometry x="43" y="46" width="242" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-6" value="Calculate Risk Score" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-4">
+          <mxGeometry x="335" y="46" width="205" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-7" value="Store Results in DataFrame" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-4">
+          <mxGeometry x="590" y="46" width="254" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-8" value="Unsupervised_Analysis" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="5080" y="514" width="831" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-9" value="Feature Selection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-8">
+          <mxGeometry x="43" y="54" width="186" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-10" value="Clustering using K-Means" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-8">
+          <mxGeometry x="279" y="54" width="237" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-11" value="Anomaly Detection using Isolation Forest" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-8">
+          <mxGeometry x="567" y="46" width="238" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-12" value="Classify_Media_Articles" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="359.5" width="775" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-13" value="Text Preprocessing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-12">
+          <mxGeometry x="43" y="46" width="194" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-14" value="Model Training Optional" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-12">
+          <mxGeometry x="287" y="46" width="230" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-15" value="Model Prediction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-12">
+          <mxGeometry x="567" y="46" width="181" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-16" value="Gather_Media_Content" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="201" width="866" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-17" value="Web Scraping using BeautifulSoup and requests" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-16">
+          <mxGeometry x="43" y="46" width="255" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-18" value="Using News APIs like News API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-16">
+          <mxGeometry x="348" y="46" width="247" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-19" value="Error Handling and Deduplication" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="aDo1W0WQXH34_hfKg9op-16">
+          <mxGeometry x="645" y="46" width="194" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-23" value="Start" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4897" y="56" width="66" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-24" value="Load Companies Data" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4838" y="201" width="184" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-25" value="Gather Media Content" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4836" y="299" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-26" value="Classify Media Articles" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4835" y="397" width="189" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-27" value="Unsupervised Analysis" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4828" y="496" width="204" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-28" value="Select Companies for Further Analysis" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4839" y="789" width="183" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-29" value="Aggregate and Assign Risk Scores" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4822" y="905" width="215" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-30" value="Manual Review" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4852" y="1021" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-31" value="Generate Risk Report" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4951" y="1266" width="183" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-32" value="End" style="rounded=1;arcSize=40;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="4902" y="1364" width="56" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-23" target="aDo1W0WQXH34_hfKg9op-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-24" target="aDo1W0WQXH34_hfKg9op-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-25" target="aDo1W0WQXH34_hfKg9op-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-26" target="aDo1W0WQXH34_hfKg9op-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-37" value="Normal Cluster" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-27" target="aDo1W0WQXH34_hfKg9op-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4847" y="744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-38" value="Anomalous/High-Priority Cluster" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0.69;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-27" target="aDo1W0WQXH34_hfKg9op-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5013" y="744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-28" target="aDo1W0WQXH34_hfKg9op-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-29" target="aDo1W0WQXH34_hfKg9op-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-41" value="Risk Score Exceeds Threshold" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-30" target="aDo1W0WQXH34_hfKg9op-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5043" y="1221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-42" value="Risk Score Below Threshold" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1;entryX=0;entryY=0.25;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-30" target="aDo1W0WQXH34_hfKg9op-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4817" y="1221" />
+              <mxPoint x="4817" y="1339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.25;rounded=0;" edge="1" parent="1" source="aDo1W0WQXH34_hfKg9op-31" target="aDo1W0WQXH34_hfKg9op-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5043" y="1339" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aDo1W0WQXH34_hfKg9op-21" value="Load dataset from Excel/CSV using Pandas" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5090" y="110" width="228" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
