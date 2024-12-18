@@ -16,7 +16,7 @@ def process_companies(company_chunk):
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     driver = webdriver.Chrome(options=options)
-    wait = WebDriverWait(driver, 20)
+    wait = WebDriverWait(driver, 45)
 
     base_url = "https://kbopub.economie.fgov.be/kbopub/zoeknaamfonetischform.html?lang=en"
     result_chunk = []
@@ -29,7 +29,7 @@ def process_companies(company_chunk):
     def clean_company_name(company_name):
         return re.sub(r'\b(?:' + '|'.join(company_types) + r')\b', '', company_name, flags=re.IGNORECASE).strip()
 
-    sleep_time = 10
+    sleep_time = 15
     for company_name in company_chunk:
         try:
             clean_name = clean_company_name(company_name)
@@ -97,8 +97,8 @@ if __name__ == '__main__':
     start_time = datetime.now()
     print(f"Start time: {start_time.strftime('%Y-%m-%d %H:%M:%S')}")
 
-    company_list = pd.read_csv('company_listTEST.csv', encoding='latin-1', sep=';')['Name']
-    num_workers = 10
+    company_list = pd.read_csv('random_sample_2500_5.csv', encoding='latin-1', sep=',')['Name']
+    num_workers = 5
 
     company_chunks = np.array_split(company_list, num_workers)
     with Pool(num_workers) as pool:
@@ -106,7 +106,7 @@ if __name__ == '__main__':
     all_results = [item[0] for item in results]
     successful_count = sum(item[1] for item in results)
     result_df = pd.DataFrame([item for sublist in all_results for item in sublist])
-    result_df.to_csv('company_status_report_async.csv', index=False)
+    result_df.to_csv('company_status_random_sample_2500_5.csv', index=False)
 
     end_time = datetime.now()
     print(f"End time: {end_time.strftime('%Y-%m-%d %H:%M:%S')}")
