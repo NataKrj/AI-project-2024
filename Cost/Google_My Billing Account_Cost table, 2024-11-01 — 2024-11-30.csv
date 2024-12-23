@@ -1,0 +1,15 @@
+Invoice number,5129942117,
+Invoice date,2024-11-30,
+Due date,,
+Billing ID,7797-1542-4972,
+Billing account ID,0139F6-7A4DE4-FA11E6,
+Currency,EUR,
+Currency exchange rate,0.926,
+Total amount due,€57.23,
+Billing account name,Billing account ID,Project name,Project ID,Project hierarchy,Service description,Service ID,SKU description,SKU ID,Credit type,Cost type,Usage start date,Usage end date,Usage amount,Usage unit,Unrounded cost (€),Cost (€)
+My Billing Account,0139F6-7A4DE4-FA11E6,Al project TSI,al-project-tsi,[Project not associated with any folders or organisations],Custom Search,4550-691F-6425,Queries,84A0-A600-D2A9,,Usage,2024-11-12,2024-11-19,"10,587",count,47.288701,47.29
+My Billing Account,0139F6-7A4DE4-FA11E6,Al project TSI,al-project-tsi,[Project not associated with any folders or organisations],Custom Search,4550-691F-6425,Queries,84A0-A600-D2A9,,Usage,2024-11-07,2024-11-07,103,count,0.013890,0.01
+My Billing Account,0139F6-7A4DE4-FA11E6,Al project TSI,al-project-tsi,[Project not associated with any folders or organisations],,,VAT (21.0%),,,Tax,,,,,9.930544,9.93
+My Billing Account,0139F6-7A4DE4-FA11E6,[Charges not specific to a project],,,,,VAT (21.0%),,,Tax,,,,,-0.000544,-0.00
+,,,,,,,,,,Rounding error,,,,,-0.002591,-0.00
+,,,,,,,,,,Total,,,,,57.230000,57.23
