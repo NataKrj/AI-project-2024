@@ -18,7 +18,7 @@ algemene aannemingen merckx,No Match,ENT LP Stopped,No relevant keywords,5.0,med
 alia consult,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 altemp nv,No Match,ENT LP Active,No relevant keywords,1.0,medium
 alterimmo,No Match,EU Active,No relevant keywords,1.0,medium
-amadeus,No Match,ENT LP Stopped,court,10.0,medium
+amadeus,No Match,ENT LP Stopped,"court, stock",9.0,medium
 andries/frieda,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 anja,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 anseeuw houthandel bvba,No Match,error,No relevant keywords,2.0,medium
@@ -53,7 +53,7 @@ bexco fibres nv,No Match,error,offshore,31.0,prohibited
 bij els,No Match,error,No relevant keywords,2.0,medium
 bils exclusive travel bvba,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 bionerga,No Match,ENT LP Active,No relevant keywords,1.0,medium
-bivit nv,No Match,ENT LP Active,No relevant keywords,1.0,medium
+bivit nv,No Match,ENT LP Active,stock,0.0,low
 bloemania,No Match,EU Stopped,No relevant keywords,5.0,medium
 bloemenkorf (de),No Match,not found in KBO data table,No relevant keywords,2.0,medium
 bloemenrijk bvba,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
@@ -75,13 +75,13 @@ browaeys/peter,No Match,not found in KBO data table,No relevant keywords,2.0,med
 bs parts,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 bulcke p,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 buracom bvba,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-bureau no?l,No Match,not found in KBO data table,No relevant keywords,2.0,medium
+bureau no?l,No Match,not found in KBO data table,stock,-1.0,low
 burrick pia,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 c.m.s. sa [senec],No Match,not found in KBO data table,No relevant keywords,2.0,medium
 cabinet d'avocats glaude,No Match,not found in KBO data table,arbitration,7.0,medium
 cambier d,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 carlier/xavier,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-carpet-stock m.d.m.,No Match,not found in KBO data table,No relevant keywords,2.0,medium
+carpet-stock m.d.m.,No Match,not found in KBO data table,stock,2.0,medium
 carron bjoke,No Match,error,No relevant keywords,2.0,medium
 carte blanche sprl,No Match,EU Stopped,liquidation,10.0,medium
 cartopack nv,No Match,EU Active,No relevant keywords,1.0,medium
@@ -94,14 +94,14 @@ ceyssens/jack,No Match,not found in KBO data table,No relevant keywords,2.0,medi
 change vr consult,No Match,error,No relevant keywords,2.0,medium
 charlier tuinen bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 chauffage clarembaux sa,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-chi-chi dog [chi-chi-dog],No Match,not found in KBO data table,No relevant keywords,2.0,medium
+chi-chi dog [chi-chi-dog],No Match,not found in KBO data table,stock,2.0,medium
 chocofino bvba,No Match,error,No relevant keywords,2.0,medium
 christiaens/pol,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 cieffe benelux bvba,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 cinar/nihat,No Match,error,No relevant keywords,2.0,medium
 ckc sprl,No Match,EU Stopped,No relevant keywords,5.0,medium
 claude michel promotion sa,No Match,not found in KBO data table,court,7.0,medium
-club sa,No Match,not found in KBO data table,audit,7.0,medium
+club sa,No Match,not found in KBO data table,"stock, audit",6.0,medium
 coin du feu (au),No Match,not found in KBO data table,No relevant keywords,2.0,medium
 comptoir janine,No Match,EU Stopped,No relevant keywords,5.0,medium
 conceptelec,No Match,EU Stopped,No relevant keywords,5.0,medium
@@ -122,7 +122,7 @@ d-outlet bvba,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 d.c.r. dienstencheques bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 daemshof,No Match,error,No relevant keywords,2.0,medium
 dakrubbercentrale bvba,No Match,error,No relevant keywords,2.0,medium
-dalemans sa,No Match,not found in KBO data table,court,19.0,high
+dalemans sa,No Match,not found in KBO data table,"stock, court",18.0,high
 dams alex bvba [dams alex chape-industrievloeren],No Match,not found in KBO data table,No relevant keywords,2.0,medium
 dayyeh company bvba,No Match,ENT LP Active,stock,2.0,medium
 de braekeleer karen,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -137,7 +137,7 @@ de schrijver,No Match,not found in KBO data table,No relevant keywords,2.0,mediu
 de sleutelbos bvba,No Match,error,No relevant keywords,2.0,medium
 de vierkante meter,No Match,ENT LP Active,No relevant keywords,1.0,medium
 de vogeleer nv,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-deba nv,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
+deba nv,No Match,ENT LP Stopped,stock,4.0,medium
 dejitronic,No Match,EU Stopped,No relevant keywords,5.0,medium
 dekoninck construct bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 delacroix/damien,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -215,12 +215,12 @@ gouleh,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 govaers,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 gtf belgium sprl,No Match,error,No relevant keywords,2.0,medium
 gueuffen d,No Match,error,court,14.0,medium
-gun productions bvba,No Match,ENT LP Active,liquidation,8.0,medium
+gun productions bvba,No Match,ENT LP Active,"liquidation, stock",7.0,medium
 gunst/leocadie,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 habraken/marc,No Match,error,No relevant keywords,2.0,medium
 haesaerts frank,No Match,EU Stopped,No relevant keywords,5.0,medium
 hall 78 sa,No Match,not found in KBO data table,court,9.0,medium
-hanson aggregates belgium nv,No Match,ENT LP Stopped,liquidation,12.0,medium
+hanson aggregates belgium nv,No Match,ENT LP Stopped,"stock, liquidation",11.0,medium
 happy life consulting sprl,No Match,ENT LP Active,No relevant keywords,1.0,medium
 hdh & co,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 heirman/roger,No Match,not found in KBO data table,bankruptcy,7.0,medium
@@ -239,7 +239,7 @@ huppertz sa,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 hydro-tools sa,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 hã¤stens megastore antwerpen,No Match,No result found for this search term,No relevant keywords,2.0,medium
 i s t c sa,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-ic distri,No Match,not found in KBO data table,No relevant keywords,2.0,medium
+ic distri,No Match,not found in KBO data table,stock,1.0,medium
 ickx design,No Match,EU Active,No relevant keywords,1.0,medium
 ideal interim sa,No Match,error,No relevant keywords,2.0,medium
 igilo sa,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -252,7 +252,7 @@ international lashing systems nv [international lashing systems - maritime conso
 inventive telecom partners sa,No Match,EU Active,No relevant keywords,1.0,medium
 investigus agency,No Match,EU Stopped,investigation,11.0,medium
 it factory bvba,No Match,EU Active,No relevant keywords,1.0,medium
-j&w partners,No Match,not found in KBO data table,No relevant keywords,2.0,medium
+j&w partners,No Match,not found in KBO data table,stock,1.0,medium
 j.l. style sprl,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 jaco traiteur,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 janssens f,No Match,error,No relevant keywords,2.0,medium
@@ -279,7 +279,7 @@ lamine/e.,No Match,error,No relevant keywords,2.0,medium
 langers kris bvba,No Match,error,No relevant keywords,2.0,medium
 lara trans bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 leenaerts//,No Match,error,No relevant keywords,2.0,medium
-lemoine belgium nv,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
+lemoine belgium nv,No Match,ENT LP Stopped,stock,4.0,medium
 lescrauwaet,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 liegeois/marie-christine,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 lieve(coiffure),No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -307,11 +307,11 @@ meersman/marc,No Match,not found in KBO data table,No relevant keywords,2.0,medi
 mega clean housing,No Match,error,No relevant keywords,2.0,medium
 mercatorfonds,No Match,ENT LP Active,No relevant keywords,1.0,medium
 mertens/jozef,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-meubelen neven nv,No Match,ENT LP Active,No relevant keywords,1.0,medium
+meubelen neven nv,No Match,ENT LP Active,stock,0.0,low
 microman roeselare,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 moerman marnix,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 ms racing bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
-mto [m.t.o.],No Match,not found in KBO data table,No relevant keywords,2.0,medium
+mto [m.t.o.],No Match,not found in KBO data table,stock,1.0,medium
 muyshondt b,No Match,error,No relevant keywords,2.0,medium
 nasim,No Match,error,court,9.0,medium
 natalima electro-technique,No Match,EU Stopped,No relevant keywords,5.0,medium
@@ -331,10 +331,10 @@ oikonde antwerpen vzw,No Match,not found in KBO data table,No relevant keywords,
 "onze-lieve-vrouwinstituut, middenschool",No Match,error,No relevant keywords,2.0,medium
 ools/willy,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 opalgo systems,No Match,EU Stopped,No relevant keywords,5.0,medium
-optimal aircraft design sprl,No Match,ENT LP Active,liquidation,8.0,medium
+optimal aircraft design sprl,No Match,ENT LP Active,"stock, liquidation",4.0,medium
 optiwatch bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 orangette (l'),No Match,not found in KBO data table,dissolved,7.0,medium
-orient international,No Match,not found in KBO data table,dispute,7.0,medium
+orient international,No Match,not found in KBO data table,"stock, dispute",5.0,medium
 orthopedie van haesendonck nv,No Match,ENT LP Active,No relevant keywords,1.0,medium
 outfort cvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 overlegplatform ggz,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -381,7 +381,7 @@ qatar airways,No Match,EU Active,No relevant keywords,1.0,medium
 quartefeuille sprl,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 r.s.b.,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
 raes d,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-rehau nv,No Match,ENT LP Active,No relevant keywords,1.0,medium
+rehau nv,No Match,ENT LP Active,stock,0.0,low
 rifo bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 rivi?ra b bvba,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 rob,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -404,7 +404,7 @@ schollaert/kristof,No Match,not found in KBO data table,No relevant keywords,2.0
 schroven/ivo,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 schutters kurt,No Match,EU Stopped,No relevant keywords,5.0,medium
 search & selection bvba,No Match,EU Active,No relevant keywords,1.0,medium
-sellerie de waimes,No Match,EU Active,No relevant keywords,1.0,medium
+sellerie de waimes,No Match,EU Active,stock,0.0,low
 sentobin bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 serafino decoratie bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 siemens n.v.,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -462,7 +462,7 @@ van de velde/s.,No Match,not found in KBO data table,criminal,34.0,prohibited
 van de voorde/peter,No Match,error,No relevant keywords,2.0,medium
 van den bergh/walter,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 van den berghe/claude,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-van den bogaert raf,No Match,EU Active,No relevant keywords,1.0,medium
+van den bogaert raf,No Match,EU Active,stock,0.0,low
 van den elsen stefaan,No Match,EU Active,No relevant keywords,1.0,medium
 van den zegel/roger,No Match,error,No relevant keywords,2.0,medium
 van der borght,No Match,not found in KBO data table,No relevant keywords,2.0,medium
@@ -482,20 +482,20 @@ verbist/paul,No Match,not found in KBO data table,No relevant keywords,2.0,mediu
 verhoeven g nv,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 verjo metal bvba,No Match,ENT LP Active,No relevant keywords,1.0,medium
 vermeiren g,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-vermeulen/christ,No Match,not found in KBO data table,No relevant keywords,2.0,medium
+vermeulen/christ,No Match,not found in KBO data table,stock,1.0,medium
 vermoortele/et,No Match,error,No relevant keywords,2.0,medium
 verstraete philip,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 verstrynge chris,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 vervaeke,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 vesuvius group s.a.,No Match,not found in KBO data table,No relevant keywords,2.0,medium
-veys m,No Match,error,stock,3.0,medium
+veys m,No Match,error,stock,1.0,medium
 vingt-deux-dix,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 vlaamse judofederatie vzw,No Match,EU Active,No relevant keywords,1.0,medium
 wallabie bvba,No Match,ENT LP Stopped,liquidation,12.0,medium
 watelet sprl,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 webkrea,No Match,error,offshore,31.0,prohibited
 wegrio bvba,No Match,ENT LP Stopped,No relevant keywords,5.0,medium
-will-pharma,No Match,EU Active,No relevant keywords,1.0,medium
+will-pharma,No Match,EU Active,stock,0.0,low
 wysmans,No Match,not found in KBO data table,No relevant keywords,2.0,medium
 x-sanatec,No Match,error,No relevant keywords,2.0,medium
 zerun/piotr,No Match,error,No relevant keywords,2.0,medium
