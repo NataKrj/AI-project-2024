@@ -2,7 +2,7 @@
 
 ## Client Overview
 
-Our client is a leading global provider of credit management services with over 100 years of experience in the field. The company focuses on helping businesses recover payments, manage credit risk and ensure financial stability. By providing debt collection services, the client enables businesses to grow while helping individuals manage and overcome debt. Operating in several regions, the client has a significant presence in Belgium, where the majority of its customer base is located.
+Our client is a leading global provider of credit management services. The company focuses on helping businesses recover payments, manage credit risk and ensure financial stability. By providing debt collection services, the client enables businesses to grow while helping individuals manage and overcome debt. Operating in several regions, the client has a significant presence in Belgium, where the majority of its customer base is located.
 
 ## Problem Understanding
 
