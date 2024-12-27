@@ -25,7 +25,7 @@ Project proposal
 - Web scrapping using API
 - Web scrapping using Beautiful soup (Bing)
 - Adjusting code with NLP code, sentiment adjustment using VADER
-Step 4 : Companies score sum of 1+2+3 results
+4. Step: Companies score sum of 1+2+3 results
      
 
 ## Result
