@@ -26,7 +26,7 @@ This approach reduces manual effort, enhances accuracy, and provides deeper insi
 The project focus on the Belgian comapanies risk assesment since the client has the most companies registered there and due to  limitations of obtaining information from the registers on the status of companies, since this process is very sensitive and the registers are mostly protected from scraping or under paywall.
 
 
-## Project execution
+## Project Execution
 The Project include 4 step codes in Python for the a system for screening adverse media for risk assessment:
 - Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment: https://github.com/NataKrj/AI-project-2024/blob/main/Steps_scoring_Framework.pdf
 1. Step: Sanction List check- sanctioned companies check and assigning score
@@ -43,5 +43,5 @@ For the result of the scoring of Belgian companies we have made following soluti
 - Obtained results load in Mongo database and visualization: https://github.com/NataKrj/AI-project-2024/tree/main/MongoDB%20and%20Visualization
 - Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
 
-## Critical Activity contribution of Team members link:
-[Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
+## Critical Activity contribution of Team members
+- Link: [Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
