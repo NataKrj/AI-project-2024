@@ -14,3 +14,11 @@ The client faces increasing challenges in monitoring client activities and asses
 To address this challenge, we propose a system for tracking adverse media coverage, evaluating client risk, and verifying company status through active checks and web scraping using APIs. Additionally, the system will conduct company status verification and scoring, ensuring real-time validation. 
 
 This approach reduces manual effort, enhances accuracy, and provides deeper insights into client activities. The solution will help protect the client's reputation, ensure regulatory compliance, and reduce exposure to financial crimes.
+
+# Team members
+Project Manager: Sergejs Kopils 
+Lead Developer:  Diāna Koržaviha
+Developer 1: Natalja Krjuckova
+Developer 2: Agita Ferstere
+
+# Critical Activity contribution of Team members link:
