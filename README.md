@@ -1,6 +1,11 @@
 # AI-project-2024
 # ADVERSE MEDIA MONITORING AND CLIENT RISK ASSESSMENT SYSTEM
 # Team-number: 1
+## Team members
+Project Manager: Sergejs Kopils; 
+Lead Developer:  Diāna Koržaviha;
+Developer 1: Natalja Krjuckova;
+Developer 2: Agita Ferstere.
 
 ## Client Overview
 
@@ -34,10 +39,4 @@ This approach reduces manual effort, enhances accuracy, and provides deeper insi
 - Obtained results load in Mongo database and viziolization: https://github.com/NataKrj/AI-project-2024/tree/main/MongoDB%20and%20Visualization
 - Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
 
-## Team members
-Project Manager: Sergejs Kopils; 
-Lead Developer:  Diāna Koržaviha;
-Developer 1: Natalja Krjuckova;
-Developer 2: Agita Ferstere.
-
-### Critical Activity contribution of Team members link: [Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
+## Critical Activity contribution of Team members link: [Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
