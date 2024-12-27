@@ -43,4 +43,5 @@ For the result of the scoring of Belgian companies we have made following soluti
 - Obtained results load in Mongo database and visualization: https://github.com/NataKrj/AI-project-2024/tree/main/MongoDB%20and%20Visualization
 - Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
 
-## Critical Activity contribution of Team members link: [Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
+## Critical Activity contribution of Team members link:
+[Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
