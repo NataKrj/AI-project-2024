@@ -32,10 +32,10 @@ The Project include 4 step codes in Python for the a system for screening advers
 1. Step: Sanction List Check- sanctioned companies check and assigning score
 2. Step: Company Status check -company active or not active and assigning scores
 3. Step: Web scrapping
-- Web scrapping using API
-- Web scrapping using Beautiful soup (Bing)
-      - Adjusting code with NLP code, sentiment adjustment using VADER 
-4. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
+3.1. Web scrapping using API
+3.2. Web scrapping using Beautiful soup (Bing)
+3.2.1. Adjusting code with NLP code, sentiment adjustment using VADER 
+5. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
      
 ## Result
 For the result of the scoring of Belgian companies we have made following solutions: 
