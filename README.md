@@ -2,10 +2,10 @@
 # ADVERSE MEDIA MONITORING AND CLIENT RISK ASSESSMENT SYSTEM
 # Team number: 1
 ## Team members
-Project Manager: Sergejs Kopils; 
-Lead Developer:  Diāna Koržaviha;
-Developer 1: Natalja Krjuckova;
-Developer 2: Agita Ferstere.
+- Project Manager: Sergejs Kopils 
+- Lead Developer:  Diāna Koržaviha
+- Developer 1: Natalja Krjuckova
+- Developer 2: Agita Ferstere
 
 ## Client Overview
 
