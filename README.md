@@ -15,10 +15,9 @@ To address this challenge, we propose a system for tracking adverse media covera
 
 This approach reduces manual effort, enhances accuracy, and provides deeper insights into client activities. The solution will help protect the client's reputation, ensure regulatory compliance, and reduce exposure to financial crimes.
 
-Project proposal
 
-## Project exeeution
-- Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment
+## Project execution
+- Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment: https://github.com/NataKrj/AI-project-2024/blob/main/Steps_scoring_Framework.pdf
 1. Step: Sanction List Check- sanctioned companies check and assigning score
 2. Step: Company Status check -company active or not active and assigning scores
 3. Step: Web scrapping
