@@ -1,0 +1,5 @@
+Purpose: 
+  Handles data storage and visualization aspects using MongoDB.
+Files:
+  Mongo_database_printscreen.png: Screenshot of the MongoDB database.
+  Import_in_Mongo_and_visualize.ipynb: Jupyter notebook for importing and visualizing data in MongoDB.
