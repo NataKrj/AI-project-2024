@@ -28,8 +28,8 @@ This approach reduces manual effort, enhances accuracy, and provides deeper insi
      
 
 ## Result
-- UI interface
-- Obtained results load in Mongo database code: https://github.com/NataKrj/AI-project-2024/blob/main/MongoDB%20and%20Visualization/Import_in_Mongo_and_visualize.ipynb
+- UI interface https://github.com/NataKrj/AI-project-2024/tree/main/SolutionUI
+- Obtained results load in Mongo database and viziolization: 
 - Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
 
 ## Team members
