@@ -1,6 +1,6 @@
 # AI-project-2024
 # ADVERSE MEDIA MONITORING AND CLIENT RISK ASSESSMENT SYSTEM
-# Team-number: 1
+# Team number: 1
 ## Team members
 Project Manager: Sergejs Kopils; 
 Lead Developer:  Diāna Koržaviha;
@@ -22,8 +22,13 @@ To address this challenge, we propose a system for tracking adverse media covera
 
 This approach reduces manual effort, enhances accuracy, and provides deeper insights into client activities. The solution will help protect the client's reputation, ensure regulatory compliance, and reduce exposure to financial crimes.
 
+## Limitation
+The project focus on the Belgian comapanies risk assesment since the client has the most companies registered there and due to  limitations of obtaining information from the registers on the status of companies, since this process is very sensitive and the registers are mostly protected from scraping or under paywall.
+registered there.
+
 
 ## Project execution
+The project include 4 step codes in Python for the a system for reening adverse media for risk assessment:
 - Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment: https://github.com/NataKrj/AI-project-2024/blob/main/Steps_scoring_Framework.pdf
 1. Step: Sanction List Check- sanctioned companies check and assigning score
 2. Step: Company Status check -company active or not active and assigning scores
@@ -31,12 +36,12 @@ This approach reduces manual effort, enhances accuracy, and provides deeper insi
 - Web scrapping using API
 - Web scrapping using Beautiful soup (Bing)
 - Adjusting code with NLP code, sentiment adjustment using VADER
-4. Step: Companies score sum of 1+2+3 results
+4. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
      
-
 ## Result
-- UI interface https://github.com/NataKrj/AI-project-2024/tree/main/SolutionUI
-- Obtained results load in Mongo database and viziolization: https://github.com/NataKrj/AI-project-2024/tree/main/MongoDB%20and%20Visualization
+For the result of the scoring of Belgian companies we have made following solutions: 
+- UI interface using Tkinter library:  https://github.com/NataKrj/AI-project-2024/tree/main/SolutionUI
+- Obtained results load in Mongo database and visualization: https://github.com/NataKrj/AI-project-2024/tree/main/MongoDB%20and%20Visualization
 - Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
 
 ## Critical Activity contribution of Team members link: [Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
