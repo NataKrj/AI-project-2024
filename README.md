@@ -24,11 +24,10 @@ This approach reduces manual effort, enhances accuracy, and provides deeper insi
 
 ## Limitation
 The project focus on the Belgian comapanies risk assesment since the client has the most companies registered there and due to  limitations of obtaining information from the registers on the status of companies, since this process is very sensitive and the registers are mostly protected from scraping or under paywall.
-registered there.
 
 
 ## Project execution
-The project include 4 step codes in Python for the a system for reening adverse media for risk assessment:
+The Project include 4 step codes in Python for the a system for reening adverse media for risk assessment:
 - Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment: https://github.com/NataKrj/AI-project-2024/blob/main/Steps_scoring_Framework.pdf
 1. Step: Sanction List Check- sanctioned companies check and assigning score
 2. Step: Company Status check -company active or not active and assigning scores
