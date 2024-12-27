@@ -15,10 +15,10 @@ To address this challenge, we propose a system for tracking adverse media covera
 
 This approach reduces manual effort, enhances accuracy, and provides deeper insights into client activities. The solution will help protect the client's reputation, ensure regulatory compliance, and reduce exposure to financial crimes.
 
-# Team members
+## Team members
 Project Manager: Sergejs Kopils 
 Lead Developer:  Diāna Koržaviha
 Developer 1: Natalja Krjuckova
 Developer 2: Agita Ferstere
 
-# Critical Activity contribution of Team members link:
+## Critical Activity contribution of Team members link:
