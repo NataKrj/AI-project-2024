@@ -21,4 +21,4 @@ Lead Developer:  Diāna Koržaviha;
 Developer 1: Natalja Krjuckova;
 Developer 2: Agita Ferstere.
 
-### Critical Activity contribution of Team members link:
+### Critical Activity contribution of Team members link: [Critical Activity contribution of Team members.pdf](https://github.com/NataKrj/AI-project-2024/blob/main/Critical%20Activity%20contribution%20of%20Team%20members.pdf)
