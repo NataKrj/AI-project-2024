@@ -35,7 +35,7 @@ The Project include 4 step codes in Python for the a system for screening advers
 - Web scrapping using API
 - Web scrapping using Beautiful Soup (Bing)
 - Adjusting code with NLP code, sentiment adjustment using VADER
-5. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
+4. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
      
 ## Result
 For the result of the scoring of Belgian companies we have made following solutions: 
