@@ -15,9 +15,23 @@ To address this challenge, we propose a system for tracking adverse media covera
 
 This approach reduces manual effort, enhances accuracy, and provides deeper insights into client activities. The solution will help protect the client's reputation, ensure regulatory compliance, and reduce exposure to financial crimes.
 
-## Result
+Project proposal
 
-### Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
+## Project exeeution
+- Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment
+1. Step: Sanction List Check- sanctioned companies check and assigning score
+2. Step: Company Status check -company active or not active and assigning scores
+3. Step: Web scrapping
+- Web scrapping using API
+- Web scrapping using Beautiful soup (Bing)
+- Adjusting code with NLP code, sentiment adjustment using VADER
+4. Step: Companies score sum of 1+2+3 results
+     
+
+## Result
+- UI interface
+- Obtained results load in Mongo database code: 
+- Mongo database visualization: https://charts.mongodb.com/charts-mongodb-pbuqwjz/public/dashboards/673dbfd4-c3c0-45fb-818c-bec4f2336c73
 
 ## Team members
 Project Manager: Sergejs Kopils; 
