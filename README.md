@@ -22,9 +22,9 @@ Project proposal
 1. Step: Sanction List Check- sanctioned companies check and assigning score
 2. Step: Company Status check -company active or not active and assigning scores
 3. Step: Web scrapping
-3.1 Web scrapping using API
-3.2. Web scrapping using Beautiful soup (Bing)
-3.2.1 Adjusting code with NLP code, sentiment adjustment using VADER
+- Web scrapping using API
+- Web scrapping using Beautiful soup (Bing)
+- Adjusting code with NLP code, sentiment adjustment using VADER
 Step 4 : Companies score sum of 1+2+3 results
      
 
