@@ -36,7 +36,7 @@ The Project include 4 step codes in Python for the a system for screening advers
 - Web scrapping using Beautiful Soup (Bing)
 - Adjusting code with NLP code, sentiment adjustment using VADER
 4. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
-Link: https://github.com/NataKrj/AI-project-2024/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb
+- Link: https://github.com/NataKrj/AI-project-2024/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb
      
 ## Result
 For the result of the scoring of Belgian companies we have made following solutions: 
