@@ -27,13 +27,13 @@ The project focus on the Belgian comapanies risk assesment since the client has 
 
 
 ## Project Execution
-The Project include 4 step codes in Python for the a system for screening adverse media for risk assessment:
+The Project includes 4 step codes in Python for the a system for screening adverse media for risk assessment:
 - Inital Framework of the company risk assignment 4 Steps with keywords and risk assessment: https://github.com/NataKrj/AI-project-2024/blob/main/Steps_scoring_Framework.pdf
-1. Step: Sanction List check- sanctioned companies check and assigning score
-2. Step: Company Status check using Selenium library -company active or not active and assigning scores
-3. Step: Web scrapping
-- Web scrapping using API
-- Web scrapping using Beautiful Soup (Bing)
+1. Step: Sanction List check- sanctioned companies check and assign score
+2. Step: Company Status check using Selenium library -a company active or not active and assigning scores
+3. Step: Web scraping
+- Web scraping using API
+- Web scraping using Beautiful Soup (Bing)
 - Adjusting code with NLP code, sentiment adjustment using VADER
 4. Step: Companies score sum of 1+2+3 results with assigned risk level: prohibited, high, medium or low.
 - Link to notebook: https://github.com/NataKrj/AI-project-2024/blob/main/Step_1_Step_2_Step_3_Step_4_sanction_list.ipynb
